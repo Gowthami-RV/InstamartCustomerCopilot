@@ -1,0 +1,20 @@
+feature,coefficient,direction,absolute_coefficient
+num__frequency,-1.6982389203159158,Decreases lapse likelihood,1.6982389203159158
+cat__favourite_category_Electronics,-1.1367129072337332,Decreases lapse likelihood,1.1367129072337332
+cat__favourite_category_Grocery,-0.4486727153769642,Decreases lapse likelihood,0.4486727153769642
+cat__city_Delhi,-0.3745171940571527,Decreases lapse likelihood,0.3745171940571527
+num__monetary,0.2845733275194229,Increases lapse likelihood,0.2845733275194229
+cat__favourite_category_Personal Care,-0.2840446845359432,Decreases lapse likelihood,0.2840446845359432
+cat__favourite_category_Snacks,-0.2791865318278126,Decreases lapse likelihood,0.2791865318278126
+cat__city_Mumbai,-0.23029004730615873,Decreases lapse likelihood,0.23029004730615873
+cat__gender_male,-0.20788347707432395,Decreases lapse likelihood,0.20788347707432395
+cat__city_Chennai,-0.16960953506969603,Decreases lapse likelihood,0.16960953506969603
+cat__gender_unknown,-0.16036512386372836,Decreases lapse likelihood,0.16036512386372836
+cat__city_Hyderabad,-0.13571799993665326,Decreases lapse likelihood,0.13571799993665326
+num__cancellation_rate,-0.12359841457679936,Decreases lapse likelihood,0.12359841457679936
+num__avg_delivery_minutes,0.07851387893513959,Increases lapse likelihood,0.07851387893513959
+num__tenure_days,-0.05022244307368681,Decreases lapse likelihood,0.05022244307368681
+num__recency,0.03958502998520276,Increases lapse likelihood,0.03958502998520276
+cat__city_Pune,-0.03158526457678907,Decreases lapse likelihood,0.03158526457678907
+num__age,0.023342033616081014,Increases lapse likelihood,0.023342033616081014
+num__avg_discount,0.004437795778988337,Increases lapse likelihood,0.004437795778988337

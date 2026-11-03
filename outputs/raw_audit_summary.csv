@@ -1,0 +1,13 @@
+Audit measure,Observed value
+Raw orders rows,13084
+Exact duplicate order rows,119
+Pending order rows,656
+Distinct order_id values,12309
+Non-numeric order_amount entries,67
+Negative delivery_minutes,106
+Blank delivery_minutes,2541
+Blank customer ages,61
+Ages outside 10-100,6
+Distinct raw city spellings,24
+Distinct non-blank raw gender spellings,10
+Blank customer genders,30
